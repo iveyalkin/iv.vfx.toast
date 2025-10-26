@@ -1,0 +1,18 @@
+{
+    "name": "iv.vfx.toas.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:78f8afa4d1a74694915fb2d8c8067a5b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
